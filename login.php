@@ -17,7 +17,7 @@
 
 	<title>PHP Login System</title>
 
-	<base href="/"/>
+	<base href="http://localhost:8080/php-login-system/"/>
 	<!-- UIkit CSS -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.27.4/css/uikit.min.css"/>
 </head>

@@ -17,7 +17,7 @@
 
 	<title>PHP Login System</title>
 
-	<base href="/"/>
+	<base href="http://localhost:8080/php-login-system/"/>
 	<!-- UIkit CSS -->
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/2.27.4/css/uikit.min.css"/>
 </head>
@@ -31,6 +31,8 @@
 					<form action="" class="uk-form js-register">
 					
 						<h2>Register</h2>
+						
+						<div class="uk-margin uk-alert uk-alert-danger js-error" style="display: none;"></div>
 						
 						<div class="uk-form-row">
 							<label for="" class="uk-form-label">Email</label>
